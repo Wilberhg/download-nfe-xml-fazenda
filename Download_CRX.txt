@@ -1,0 +1,2 @@
+http://clients2.google.com/service/update2/crx?response=redirect&x=id%3D<EXTENSION_ID_HERE>%26uc%26lang%3Den-US&prod=chrome
+https://clients2.google.com/service/update2/crx?response=redirect&prodversion=[PRODVERSION]&acceptformat=crx2,crx3&x=id%3D[EXTENSIONID]%26uc
